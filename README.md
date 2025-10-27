@@ -1,6 +1,6 @@
 # 🚀 Cursor 插件无限续杯 - 全新升级积分换号模式
 
-> **🌟 官方网站：[https://cursor.thinkgin.com/](https://cursor.thinkgin.com/)**
+> **🌟 官方网站：[https://cursorvip.cn/](https://cursorvip.cn/)**
 
 ## 📖 项目介绍
 
@@ -10,7 +10,7 @@ Cursor 插件无限续杯 - 采用全新升级的积分换号模式，全线支�
 
 - 🆕 **全新积分换号模式** - 1 个账号 = 100 积分，珍惜每个账号
 - 🚀 **免魔法 HTTP2 连接** - 高级版专享，无需魔法上网
-- 🔄 **版本兼容性强** - 支持 Cursor 1.2.0-1.7.34 所有版本
+- 🔄 **版本兼容性强** - 支持 Cursor 1.2.0-1.7.33 所有版本
 - 🤖 **AI 模型丰富** - 支持 Claude-4.5 Sonnet、GPT-5、Gemini Pro 等主流模型
 
 ## 📋 支持的 AI 模型
@@ -99,7 +99,7 @@ Cursor 插件无限续杯 - 采用全新升级的积分换号模式，全线支�
 
 ### 🌐 官方网站
 
-**[https://cursor.thinkgin.com/](https://cursor.thinkgin.com/)**
+**[https://cursorvip.cn/](https://cursorvip.cn/)**
 
 ### 📚 技术文档
 
@@ -118,4 +118,4 @@ Cursor 插件无限续杯 - 采用全新升级的积分换号模式，全线支�
 
 ---
 
-**💡 提示：访问 [https://cursor.thinkgin.com/](https://cursor.thinkgin.com/) 获取最新版本和详细信息！**
+**💡 提示：访问 [https://cursorvip.cn/](https://cursorvip.cn/) 获取最新版本和详细信息！**
